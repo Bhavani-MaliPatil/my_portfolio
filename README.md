@@ -2,7 +2,7 @@
 
 A clean, minimal and responsive personal portfolio website built with pure HTML, CSS and JavaScript.
 
-## 🔗 Live Demo
+ 🔗 Live Demo
 [View Portfolio](file:///C:/Users/acerk/OneDrive/Desktop/portfolio/index.html.html)
 
 ## 👩‍💻 About
