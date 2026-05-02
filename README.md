@@ -3,7 +3,7 @@
 A clean, minimal and responsive personal portfolio website built with pure HTML, CSS and JavaScript.
 
 ## 🔗 Live Demo
-[View Portfolio](https://Bhavani-MaliPatil.github.io/portfolio)
+[View Portfolio](https://Bhavani-MaliPatil.github.io/my_portfolio)
 
 ## 👩‍💻 About
 Final-year Computer Science student at Navodaya Institute of Technology, Raichur with a CGPA of 9.5. Passionate about building full-stack web applications using Java, React.js and modern web technologies.
